@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="memmatch">MemMatch!</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logo">app logo</string>
+    <string name="tries">Tries: %1$d</string>
+    <string name="time">Time: 00:00</string>
+    <string-array name="difficulty">
+        <item>Easy (4x2)</item>
+        <item>Medium (4x4)</item>
+        <item>Hard (6x4)</item>
+    </string-array>
+    <string-array name="mode">
+        <item>Basic</item>
+        <item>Timed</item>
+    </string-array>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+</resources>
