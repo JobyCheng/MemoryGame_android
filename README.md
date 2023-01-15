@@ -1,2 +1,2 @@
-# MemoryGame_android
-# MemoryGame_android
+# Comp4521 Project
+## Memory Game
